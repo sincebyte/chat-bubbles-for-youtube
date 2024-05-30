@@ -1,0 +1,4 @@
+github.com/GuoFlight/gkeybd v0.0.1 h1:dHw4JU9Upj7SNoS9bQwvZwDvE4WwmIPBHgsn4//3gQI=
+github.com/GuoFlight/gkeybd v0.0.1/go.mod h1:YDxgjZr7+Vh22CCFrQC/Izo6+t2hJoxRzgGIOibyCq0=
+github.com/micmonay/keybd_event v1.1.1 h1:rv7omwXWYL9Lgf3PUq6uBgJI2k1yGkL/GD6dxc6nmSs=
+github.com/micmonay/keybd_event v1.1.1/go.mod h1:CGMWMDNgsfPljzrAWoybUOSKafQPZpv+rLigt2LzNGI=

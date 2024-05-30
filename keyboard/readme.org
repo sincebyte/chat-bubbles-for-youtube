@@ -1,0 +1,28 @@
+#+title: readme
+#+subtitle: this is subtitle
+#+author: van
+#+SETUPFILE: ~/.doom.d/org-classic-head.setup
+
+Readbefore: https://www.cnblogs.com/NetRookieX/p/17378641.html
+
+* build
+#+begin_src build
+export GO111MODULE=on
+export GOPROXY=https://goproxy.cn
+go env -w GOPROXY=https://goproxy.cn
+#+end_src
+
+* change the code
+~/.m2/go/src/github.com/sincebyte/gkeybd/gkeydb.go
+#+begin_src go
+// sleep random 100-600
+min := 0
+max := 10
+rand.Seed(time.Now().UnixNano())
+time.Sleep(time.Duration(rand.Intn(max-min+1)) * time.Millisecond)
+#+end_src
+* run
+just run in iterm , emacs do not work.
+#+begin_src run
+go run main.go
+#+end_src
