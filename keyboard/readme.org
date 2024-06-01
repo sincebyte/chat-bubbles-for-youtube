@@ -21,8 +21,29 @@ max := 10
 rand.Seed(time.Now().UnixNano())
 time.Sleep(time.Duration(rand.Intn(max-min+1)) * time.Millisecond)
 #+end_src
+
+* create you text
+every blank lin will stop 3 seconds.
+
+#+begin_src text
+Hello! Welcome to vanniuner's channel.
+
+Today we explore the frontiers of artificial intelligence technology.
+#+end_src
+
+#+begin_src go
+// load you text file
+path := "./data/2024.05.01.txt"
+#+end_src
+
 * run
 just run in iterm , emacs do not work.
-#+begin_src run
+
+#+begin_src shell
+npm run dev # on ../
 go run main.go
+go build .
+
+cd ~/workspace/chat-bubbles-for-youtube/keyboard/
+./keyboard ./data/2024.05.01.txt
 #+end_src

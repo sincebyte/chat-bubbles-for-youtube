@@ -2,3 +2,7 @@ github.com/GuoFlight/gkeybd v0.0.1 h1:dHw4JU9Upj7SNoS9bQwvZwDvE4WwmIPBHgsn4//3gQ
 github.com/GuoFlight/gkeybd v0.0.1/go.mod h1:YDxgjZr7+Vh22CCFrQC/Izo6+t2hJoxRzgGIOibyCq0=
 github.com/micmonay/keybd_event v1.1.1 h1:rv7omwXWYL9Lgf3PUq6uBgJI2k1yGkL/GD6dxc6nmSs=
 github.com/micmonay/keybd_event v1.1.1/go.mod h1:CGMWMDNgsfPljzrAWoybUOSKafQPZpv+rLigt2LzNGI=
+github.com/micmonay/keybd_event v1.1.2 h1:RpgvPJKOh4Jc+ZYe0OrVzGd2eNMCfuVg3dFTCsuSah4=
+github.com/micmonay/keybd_event v1.1.2/go.mod h1:CGMWMDNgsfPljzrAWoybUOSKafQPZpv+rLigt2LzNGI=
+github.com/sincebyte/gkeybd v0.1.1 h1:tJ2DlmhnBxFBCsl0wC68IxziEIBiJylVQHOXc5EHzMs=
+github.com/sincebyte/gkeybd v0.1.1/go.mod h1:FBxWcrlYiDTt9mAs6XVq0tbO/DldCMMVP8bG1GcsM2k=

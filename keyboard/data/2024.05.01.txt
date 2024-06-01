@@ -1,0 +1,19 @@
+Hello! Welcome to vanniuner's channel.
+
+Today we explore the frontiers of artificial intelligence technology.
+
+It is my honor to introduce to you the AI Master GPT3.5 and llama3 that I use
+Simply use it to help us solve the problem of code formatting in java.
+
+In java code formatting, expect line wrapping as expected That is when we explicitly wrap a line.
+
+we naturally do not expect the formatter to remove the line wrap symbol.
+
+This is especially true for function methods, lambda expressions, and long lines of code.
+
+I used gtp3.5 for a long time and it performs well.
+But my experience with llama3 is not long, nor have I downloaded the Chinese fine-tuning model.
+
+I tried it, but it is a pity that the tips he gave were not satisfactory.
+
+However, I will continue to use it to find the right open source native LLM for me.
